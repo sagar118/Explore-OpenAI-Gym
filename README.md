@@ -1,4 +1,4 @@
-# Explore OpenAI Gym
+# Explore OpenAI Gym Environments
 The goal of the project was to work with value function approximation algorithms, to explore OpenAI Gym environments. We have implemented Deep Q-learning (DQN) following DeepMind’s paper that explains how reinforcement learning algorithms can learn to play Atari from raw pixels. In the next partwe have implemented an improvement to the DQN algorithm. The purpose of this assignment is to understand the benefits of approximation methods, the role of deep neural networks as well as some of the techniques used in practice to stabilize training and to achieve better performance. We will train our networks on the grid-world and OpenAI gym environments.
 
 We have experimented with three environments in total:
